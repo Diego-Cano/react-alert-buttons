@@ -1,0 +1,21 @@
+.toolbar {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+  }
+  
+  .toolbar button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    outline: none;
+  }
+  
+  .toolbar button:hover {
+    background-color: #0056b3;
+  }
+  
